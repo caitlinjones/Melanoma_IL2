@@ -1,0 +1,4055 @@
+[
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 3,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 6,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Center"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Center"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Center"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_preHalo": "X",
+    "Marker_exclusion": "CD68"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_untreated",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Center"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 6,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 2,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 2,
+    "Number_epidermis_areasHalo": 4,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 3,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 6,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Center"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Center"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Center"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 5,
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 4,
+    "Number_epidermis_areasHalo": 2,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 2,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 4,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 1,
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 27,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 28,
+    "FOV_size": "3x3",
+    "FOV_type": "Center"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 29,
+    "FOV_size": "3x3",
+    "FOV_type": "Center"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 30,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 31,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 32,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 2,
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 33,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_PR",
+    "FOV_number": 34,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort1\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "melanoma_CR",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_preHalo": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 2,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "8",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Inflamed Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Inflamed Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_1",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "12",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "8",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "7",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "6",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "15",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "~50 microns of interface",
+    "Number_exclusion_areasHalo": 1,
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Notes": "~50 microns of interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Notes": "Many single sporadic tumor cells",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "4",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "4",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "6",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "Many single sporadic tumor cells",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "16",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 27,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 28,
+    "FOV_size": "3x3",
+    "FOV_type": "Center, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_2",
+    "FOV_number": 29,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Notes": "Mostly CD45+",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "*",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "FOV_exclusion_preHalo": "X",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "FOV_exclusion_preHalo": "X",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_3",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "FOV_exclusion_preHalo": "X",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "24",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "18",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "14",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "77",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "25",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_interface_areasHalo": "8",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "12",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "~50 microns of interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Center, PNT",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Center, PNT",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Center, PNT",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_4",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "~20 microns of interface, SOX10 staining gradient",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "8",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_interface_areasHalo": "30",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "11",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "6",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "25",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "19",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "9",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "4",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "SOX10, CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Center, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 27,
+    "FOV_size": "3x3",
+    "FOV_type": "Center, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 28,
+    "FOV_size": "3x3",
+    "FOV_type": "Center, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_5",
+    "FOV_number": 29,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_exclusion_areasHalo": 1,
+    "Number_glass_exclusion_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68, IDO1",
+    "Number_glass_exclusion_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68, IDO1",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68, IDO1",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "~50 microns of interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68, B2M",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_6",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_exclusion_areasHalo": 1,
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "14",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_interface_areasHalo": "6",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "12",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_interface_areasHalo": "4",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "21",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 1,
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "8",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Notes": "Tissue loss",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "4",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 27,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68, KI67",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 28,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 29,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface, PNT",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 30,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 31,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 32,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 33,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 34,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 35,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 1,
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 36,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_7",
+    "FOV_number": 37,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "Check LAG3 counts for all FOVs",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "7",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_interface_areasHalo": "8",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "9",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "20",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "13",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "25",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "9",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_interface_areasHalo": "13",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 7,
+    "Number_interface_areasHalo": "17",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "8",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "6",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "67",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Marker_exclusion": "LAG3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Marker_exclusion": "LAG3",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 27,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 28,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 29,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 30,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 31,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 32,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 33,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 34,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 35,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_8",
+    "FOV_number": 36,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "32",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "19",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "93",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "47",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 4,
+    "Number_interface_areasHalo": "26",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "35",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "35",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 3,
+    "Number_interface_areasHalo": "32",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "24",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "30",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "39",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_interface_areasHalo": "7",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "19",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "17",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "12",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "10",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "21",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 27,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 28,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 29,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 30,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 31,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 32,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 33,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 34,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_9",
+    "FOV_number": 35,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "8",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "4",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "12",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "7",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "33",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "13",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "7",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "17",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "24",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "10% interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "11",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "12",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "18",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "17",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_interface_areasHalo": "14",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "FOV_exclusion_post_analysis": "X",
+    "Marker_exclusion": "MHCI",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_post_analysis": "X",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_post_analysis": "X",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_post_analysis": "X",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_post_analysis": "X",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_10",
+    "FOV_number": 27,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_11",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "46",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_11",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "8",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_11",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 4,
+    "Number_interface_areasHalo": "28",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_11",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "7",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_11",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_11",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "20",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "69",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "6",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "11",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_12",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Notes": "*",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68, CD25",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 22,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 23,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 24,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 25,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 26,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed, necrotic",
+    "FOV_exclusion_postHalo": "X",
+    "Marker_exclusion": "CD68",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_13",
+    "FOV_number": 27,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 5,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27, PDL1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "*",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 18,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "CD27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 19,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 20,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_14",
+    "FOV_number": 21,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Marker_exclusion": "PDL1",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "*, PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 high parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 med parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 low parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 low parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 15,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "PD1 low parameter",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 16,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "Notes": "PD1 low parameter",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_15",
+    "FOV_number": 17,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "Notes": "PD1 low parameter",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_16",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 7,
+    "Number_interface_areasHalo": "5",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_16",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 6,
+    "Number_interface_areasHalo": "4",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_16",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_epidermis_areasHalo": 5,
+    "Number_interface_areasHalo": "2",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_16",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_16",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 6,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_17",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 2,
+    "Number_interface_areasHalo": "18",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_17",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 2,
+    "Number_interface_areasHalo": "15",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_17",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "13",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_17",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "3",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_17",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 3,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_17",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 11,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_18",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "19",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_18",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "24",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_18",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "6",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_18",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_interface_areasHalo": "30",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_18",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "32",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_18",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "15",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_18",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_epidermis_areasHalo": 1,
+    "Number_interface_areasHalo": "27",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_18",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_18",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 1,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 2,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 3,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 4,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Notes": "*",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 5,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 6,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 7,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 8,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Marker_exclusion": "PD1",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 9,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 10,
+    "FOV_size": "2x2",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 11,
+    "FOV_size": "2x2",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_exclusion_areasHalo": 1,
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_19",
+    "FOV_number": 12,
+    "FOV_size": "2x2",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_20",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_20",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_20",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_20",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_20",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_20",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Notes": "*",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_20",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Regressed",
+    "Number_exclusion_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_20",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 1,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 1,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "106",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 2,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "*",
+    "Number_interface_areasHalo": "74",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates",
+    "FOV_used_for_thresholding": "X"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 3,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "21",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 4,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "18",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 5,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "51",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 6,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_interface_areasHalo": "44",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 7,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "15",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 8,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "35",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 9,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Notes": "only 10 microns of interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "11",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 10,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 11,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 12,
+    "FOV_size": "3x3",
+    "FOV_type": "Interface",
+    "Number_glass_exclusion_areasHalo": 1,
+    "Number_interface_areasHalo": "55",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 13,
+    "FOV_size": "3x3",
+    "FOV_type": "Center",
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  },
+  {
+    "CELL_DIVE_ID": "mel_21",
+    "FOV_number": 14,
+    "FOV_size": "3x3",
+    "FOV_type": "Epidermis",
+    "FOV_exclusion_post_analysis": "X",
+    "Number_epidermis_areasHalo": 2,
+    "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
+  }
+]

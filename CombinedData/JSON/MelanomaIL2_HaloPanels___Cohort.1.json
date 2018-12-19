@@ -1,0 +1,224 @@
+[
+  {
+    "Marker_number": 1,
+    "Panel": 1,
+    "Marker_name": "DAPI",
+    "Location": "Nucleus"
+  },
+  {
+    "Marker_number": 2,
+    "Panel": 1,
+    "Marker_name": "CD3",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 3,
+    "Panel": 1,
+    "Marker_name": "CD4",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 4,
+    "Panel": 1,
+    "Marker_name": "CD8",
+    "Location": "Cytoplasm"
+  },
+  {
+    "Marker_number": 5,
+    "Panel": 1,
+    "Marker_name": "FOXP3",
+    "Location": "Nucleus"
+  },
+  {
+    "Marker_number": 6,
+    "Panel": 1,
+    "Marker_name": "LCA",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 7,
+    "Panel": 1,
+    "Marker_name": "CD20",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 8,
+    "Panel": 1,
+    "Marker_name": "SOX10",
+    "Location": "Nucleus"
+  },
+  {
+    "Marker_number": 1,
+    "Panel": 2,
+    "Marker_name": "DAPI",
+    "Location": "Nucleus"
+  },
+  {
+    "Marker_number": 2,
+    "Panel": 2,
+    "Marker_name": "KI67",
+    "Location": "Nucleus"
+  },
+  {
+    "Marker_number": 3,
+    "Panel": 2,
+    "Marker_name": "PD1",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 4,
+    "Panel": 2,
+    "Marker_name": "LAG3",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 5,
+    "Panel": 2,
+    "Marker_name": "TIM3",
+    "Location": "Cytoplasm"
+  },
+  {
+    "Marker_number": 6,
+    "Panel": 2,
+    "Marker_name": "CD56",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 7,
+    "Panel": 2,
+    "Marker_name": "B7H3",
+    "Location": "Cytoplasm"
+  },
+  {
+    "Marker_number": 8,
+    "Panel": 2,
+    "Marker_name": "IDO1",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 1,
+    "Panel": 3,
+    "Marker_name": "DAPI",
+    "Location": "Nucleus"
+  },
+  {
+    "Marker_number": 2,
+    "Panel": 3,
+    "Marker_name": "CD163",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 3,
+    "Panel": 3,
+    "Marker_name": "CD14",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 4,
+    "Panel": 3,
+    "Marker_name": "MRC1",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 5,
+    "Panel": 3,
+    "Marker_name": "TGM2",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 6,
+    "Panel": 3,
+    "Marker_name": "CD27",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 7,
+    "Panel": 3,
+    "Marker_name": "CD68",
+    "Location": "Cytoplasm"
+  },
+  {
+    "Marker_number": 8,
+    "Panel": 3,
+    "Marker_name": "S100B",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 1,
+    "Panel": 4,
+    "Marker_name": "DAPI",
+    "Location": "Nucleus"
+  },
+  {
+    "Marker_number": 2,
+    "Panel": 4,
+    "Marker_name": "MHCII",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 3,
+    "Panel": 4,
+    "Marker_name": "B2M",
+    "Location": "Cytoplasm"
+  },
+  {
+    "Marker_number": 4,
+    "Panel": 4,
+    "Marker_name": "CD25",
+    "Location": "Nucleus, Cytoplasm"
+  },
+  {
+    "Marker_number": 5,
+    "Panel": 4
+  },
+  {
+    "Marker_number": 6,
+    "Panel": 4
+  },
+  {
+    "Marker_number": 7,
+    "Panel": 4
+  },
+  {
+    "Marker_number": 8,
+    "Panel": 4
+  },
+  {
+    "Marker_number": 1,
+    "Panel": 5,
+    "Marker_name": "DAPI",
+    "Location": "Nucleus"
+  },
+  {
+    "Marker_number": 2,
+    "Panel": 5,
+    "Marker_name": "MHCI",
+    "Location": "Cytoplasm"
+  },
+  {
+    "Marker_number": 3,
+    "Panel": 5,
+    "Marker_name": "PDL1",
+    "Location": "Cytoplasm"
+  },
+  {
+    "Marker_number": 4,
+    "Panel": 5
+  },
+  {
+    "Marker_number": 5,
+    "Panel": 5
+  },
+  {
+    "Marker_number": 6,
+    "Panel": 5
+  },
+  {
+    "Marker_number": 7,
+    "Panel": 5
+  },
+  {
+    "Marker_number": 8,
+    "Panel": 5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Marker_combination": "CD68,MHCII",
+    "Negatives": "CD3-,CD8-,FOXP3-,CD20-,CD56-,SOX10-",
+    "With_OR_Without": "CD163,CD14,CD4",
+    "Cell_type": "M1",
+    "Subtype": "M1",
+    "Tag": "M1",
+    "Category": "Immune"
+  },
+  {
+    "Marker_combination": "CD163,MHCII",
+    "Negatives": "CD3-,CD8-,FOXP3-,CD20-,CD56-,SOX10-",
+    "With_OR_Without": "CD68,CD14,CD4",
+    "Cell_type": "M1",
+    "Subtype": "M1",
+    "Tag": "M1",
+    "Category": "Immune"
+  },
+  {
+    "Marker_combination": "CD68",
+    "Negatives": "CD3-,CD8-,FOXP3-,CD20-,CD56-,SOX10-, MHCII-",
+    "With_OR_Without": "CD163,CD14,CD4",
+    "Cell_type": "M2",
+    "Subtype": "M2",
+    "Tag": "M2",
+    "Category": "Immune"
+  },
+  {
+    "Marker_combination": "CD163",
+    "Negatives": "CD3-,CD8-,FOXP3-,CD20-,CD56-,SOX10-, MHCII-",
+    "With_OR_Without": "CD68,CD14,CD4",
+    "Cell_type": "M2",
+    "Subtype": "M2",
+    "Tag": "M2",
+    "Category": "Immune"
+  }
+]

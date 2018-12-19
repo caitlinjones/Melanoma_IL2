@@ -1,0 +1,120 @@
+[
+  {
+    "Marker_name": "LCA",
+    "Description": "Identity"
+  },
+  {
+    "Marker_name": "CD3",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "CD4",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "CD8",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "FOXP3",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "CD56",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "CD20",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "CD14",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "CD163",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "CD68",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "SOX10",
+    "Description": "Identity",
+    "Cell_Type": "X"
+  },
+  {
+    "Marker_name": "S100B",
+    "Description": "Identity"
+  },
+  {
+    "Marker_name": "MRC1",
+    "Description": "Activation"
+  },
+  {
+    "Marker_name": "TGM2",
+    "Description": "Activation"
+  },
+  {
+    "Marker_name": "PD1",
+    "Description": "Inhibitory checkpoint"
+  },
+  {
+    "Marker_name": "LAG3",
+    "Description": "Inhibitory checkpoint"
+  },
+  {
+    "Marker_name": "TIM3",
+    "Description": "Inhibitory checkpoint"
+  },
+  {
+    "Marker_name": "CD27",
+    "Description": "Activating checkpoint"
+  },
+  {
+    "Marker_name": "ICOS",
+    "Description": "Activating checkpoint"
+  },
+  {
+    "Marker_name": "PDL1",
+    "Description": "Inhibitory checkpoint"
+  },
+  {
+    "Marker_name": "B7H3",
+    "Description": "Inhibitory checkpoint"
+  },
+  {
+    "Marker_name": "IDO1",
+    "Description": "Inhibitory mechanism"
+  },
+  {
+    "Marker_name": "MHCI",
+    "Description": "Antigen presentation"
+  },
+  {
+    "Marker_name": "MHCII",
+    "Description": "Antigen presentation"
+  },
+  {
+    "Marker_name": "B2M",
+    "Description": "Antigen presentation"
+  },
+  {
+    "Marker_name": "CD25",
+    "Description": "IL2 receptor alpha"
+  },
+  {
+    "Marker_name": "KI67",
+    "Description": "Proliferation"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "IF": "ANY",
+    "OF": "CD4,CD14,CD163,CD68",
+    "MATCHES": "ANY",
+    "OF__1": "CD4,CD14,CD163,CD68",
+    "CELL_TYPE": "Macrophage/monocyte",
+    "SUBTYPE": "Macrophage/monocyte",
+    "NEGATIVES": "CD3-,CD8-,FOXP3-,CD20-,CD56-,SOX10-",
+    "With_OR_Without": "CD45",
+    "Tag": "Macrophage_monocyte",
+    "Category": "Immune"
+  }
+]
