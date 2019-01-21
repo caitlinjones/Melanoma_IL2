@@ -484,7 +484,9 @@
     "Num. IL2 injections": "4-10",
     "Num. IL2 injections (detailed)": "2-4",
     "IL2 interval (days)": ">60",
-    "IL2 interval (days) (detailed)": "76-104"
+    "IL2 interval (days) (detailed)": "76-104",
+    "Number_TVEC_injections": 1,
+    "TVEC Interval": 21
   },
   {
     "CELL_DIVE_ID": "mel_18",

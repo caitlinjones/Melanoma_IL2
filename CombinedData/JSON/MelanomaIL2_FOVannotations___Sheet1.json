@@ -890,35 +890,35 @@
     "CELL_DIVE_ID": "mel_2",
     "FOV_number": 14,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_2",
     "FOV_number": 15,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_2",
     "FOV_number": 16,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_2",
     "FOV_number": 17,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_2",
     "FOV_number": 18,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
@@ -1236,6 +1236,7 @@
     "FOV_number": 12,
     "FOV_size": "3x3",
     "FOV_type": "Center, PNT",
+    "FOV_exclusion_post_analysis": "X",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
@@ -1243,6 +1244,7 @@
     "FOV_number": 13,
     "FOV_size": "3x3",
     "FOV_type": "Center, PNT",
+    "FOV_exclusion_post_analysis": "X",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
@@ -1250,6 +1252,7 @@
     "FOV_number": 14,
     "FOV_size": "3x3",
     "FOV_type": "Center, PNT",
+    "FOV_exclusion_post_analysis": "X",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
@@ -3067,35 +3070,35 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 1,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 2,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 3,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 4,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 5,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
@@ -3104,7 +3107,7 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 6,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
@@ -3113,7 +3116,7 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 7,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
@@ -3122,7 +3125,7 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 8,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
@@ -3131,14 +3134,14 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 9,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 10,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
@@ -3147,14 +3150,14 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 11,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 12,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
@@ -3163,63 +3166,63 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 13,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 14,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 15,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 16,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 17,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 18,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 19,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 20,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 21,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Notes": "*",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68, CD25",
@@ -3230,7 +3233,7 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 22,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
@@ -3239,21 +3242,21 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 23,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 24,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
   },
   {
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 25,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
@@ -3262,7 +3265,7 @@
     "CELL_DIVE_ID": "mel_13",
     "FOV_number": 26,
     "FOV_size": "3x3",
-    "FOV_type": "Regressed, necrotic",
+    "FOV_type": "Regressed",
     "FOV_exclusion_postHalo": "X",
     "Marker_exclusion": "CD68",
     "Path_to_boundary_files": "\\\\bic.mskcc.org\\HaloData\\Melanoma_IL2__Final\\Cohort2\\HaloCoordinates"
