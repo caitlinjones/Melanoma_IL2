@@ -1,9 +1,9 @@
 [
   {
     "IF": "ANY",
-    "OF": "CD4,CD14,CD163,CD68",
+    "OF..2": "CD4,CD14,CD163,CD68",
     "MATCHES": "ANY",
-    "OF__1": "CD4,CD14,CD163,CD68",
+    "OF..4": "CD4,CD14,CD163,CD68",
     "CELL_TYPE": "Macrophage/monocyte",
     "SUBTYPE": "Macrophage/monocyte",
     "NEGATIVES": "CD3-,CD8-,FOXP3-,CD20-,CD56-,SOX10-",
