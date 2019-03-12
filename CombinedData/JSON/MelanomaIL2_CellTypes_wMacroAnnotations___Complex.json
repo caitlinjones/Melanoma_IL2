@@ -8,7 +8,7 @@
     "SUBTYPE": "Macrophage/monocyte",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD3-,CD8-,FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "Macrophage_monocyte",
     "Category": "Immune"
   },
@@ -21,7 +21,7 @@
     "SUBTYPE": "T cell/null phenotype",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD4-,CD8-,FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "Tnull",
     "Category": "Immune"
   },
@@ -34,7 +34,7 @@
     "SUBTYPE": "CD4+ T cell",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD8-,FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "Tconv4",
     "Category": "Immune"
   },
@@ -47,7 +47,7 @@
     "SUBTYPE": "CD8+ T cell",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD4-,FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "Tconv8",
     "Category": "Immune"
   },
@@ -60,7 +60,7 @@
     "SUBTYPE": "CD4+/CD8+ T cell",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "T4_8",
     "Category": "Immune"
   },
@@ -73,7 +73,7 @@
     "SUBTYPE": "Regulatory T cell",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD4-,CD8-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "Treg",
     "Category": "Immune"
   },
@@ -86,7 +86,7 @@
     "SUBTYPE": "CD4+ regulatory T cell",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD8-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "Treg4",
     "Category": "Immune"
   },
@@ -99,7 +99,7 @@
     "SUBTYPE": "CD8+ regulatory T cell",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD4-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "Treg8",
     "Category": "Immune"
   },
@@ -111,8 +111,8 @@
     "CELL_TYPE": "B cell",
     "SUBTYPE": "B cell",
     "TOUCHING_MACROPHAGES": "Y",
-    "NEGATIVES": "CD3-,CD8-,FOXP3-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "NEGATIVES": "CD3-,CD4-,CD8-,FOXP3-,CD56-,SOX10-",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "B",
     "Category": "Immune"
   },
@@ -125,7 +125,7 @@
     "SUBTYPE": "Natural killer cell",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD3-,CD4-,CD8-,FOXP3-,CD20-,SOX10-,S100B-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,PCK26",
     "Tag": "NK",
     "Category": "Immune"
   },
@@ -138,7 +138,7 @@
     "SUBTYPE": "Natural killer T cell",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD4-,CD8-,FOXP3-,CD20-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "NKT",
     "Category": "Immune"
   },
@@ -151,7 +151,7 @@
     "SUBTYPE": "Natural killer T cell/CD8",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD4-,FOXP3-,CD20-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "NKT8",
     "Category": "Immune"
   },
@@ -164,7 +164,7 @@
     "SUBTYPE": "Natural killer T cell/CD4",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD8-,FOXP3-,CD20-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "NKT4",
     "Category": "Immune"
   },
@@ -177,7 +177,7 @@
     "SUBTYPE": "Tumor",
     "TOUCHING_MACROPHAGES": "Y",
     "NEGATIVES": "CD3-,CD4-,CD8-,FOXP3-,CD20-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26,CD56",
     "Tag": "Tumor",
     "Category": "Tumor"
   }

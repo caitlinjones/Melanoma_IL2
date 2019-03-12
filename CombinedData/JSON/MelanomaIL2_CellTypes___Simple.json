@@ -1,7 +1,8 @@
 [
   {
     "Marker_combination": "CD45",
-    "Negatives": "CD3-,CD4-,CD8-,FOXP3-,CD20-,CD56-,CD14-,CD163-,CD68-,SOX10-",
+    "Negatives": "CD3-,CD4-,CD8-,FOXP3-,CD20-,CD56-,CD14-,CD163-,CD68-,SOX10-,S100B-",
+    "With_OR_Without": "PCK26",
     "Cell_type": "Other leukocyte",
     "Subtype": "Other leukocyte",
     "Tag": "Other_leuk",
@@ -10,7 +11,7 @@
   {
     "Marker_combination": "CD3",
     "Negatives": "CD4-,CD8-,FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "T cell",
     "Subtype": "T cell/null phenotype",
     "Tag": "Tnull",
@@ -19,7 +20,7 @@
   {
     "Marker_combination": "CD3,CD4",
     "Negatives": "CD8-,FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "T cell",
     "Subtype": "CD4+ T cell",
     "Tag": "Tconv4",
@@ -28,7 +29,7 @@
   {
     "Marker_combination": "CD3,CD8",
     "Negatives": "CD4-,FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "T cell",
     "Subtype": "CD8+ T cell",
     "Tag": "Tconv8",
@@ -37,7 +38,7 @@
   {
     "Marker_combination": "CD3,CD4,CD8",
     "Negatives": "FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "T cell",
     "Subtype": "CD4+/CD8+ T cell",
     "Tag": "T4_8",
@@ -46,7 +47,7 @@
   {
     "Marker_combination": "CD3,FOXP3",
     "Negatives": "CD4-,CD8-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "T cell",
     "Subtype": "Regulatory T cell",
     "Tag": "Treg",
@@ -55,7 +56,7 @@
   {
     "Marker_combination": "CD3,CD4,FOXP3",
     "Negatives": "CD8-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "T cell",
     "Subtype": "CD4+ regulatory T cell",
     "Tag": "Treg4",
@@ -64,7 +65,7 @@
   {
     "Marker_combination": "CD3,CD8,FOXP3",
     "Negatives": "CD4-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "T cell",
     "Subtype": "CD8+ regulatory T cell",
     "Tag": "Treg8",
@@ -72,8 +73,8 @@
   },
   {
     "Marker_combination": "CD20",
-    "Negatives": "CD3-,CD8-,FOXP3-,CD56-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "Negatives": "CD3-,CD4-,CD8-,FOXP3-,CD56-,SOX10-",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "B cell",
     "Subtype": "B cell",
     "Tag": "B",
@@ -82,7 +83,7 @@
   {
     "Marker_combination": "CD56",
     "Negatives": "CD3-,CD4-,CD8-,FOXP3-,CD20-,SOX10-,S100B-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,PCK26",
     "Cell_type": "Natural killer cell overall",
     "Subtype": "Natural killer cell",
     "Tag": "NK",
@@ -91,7 +92,7 @@
   {
     "Marker_combination": "CD3,CD56",
     "Negatives": "CD4-,CD8-,FOXP3-,CD20-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "Natural killer cell overall",
     "Subtype": "Natural killer T cell",
     "Tag": "NKT",
@@ -100,7 +101,7 @@
   {
     "Marker_combination": "CD3,CD8,CD56",
     "Negatives": "CD4-,FOXP3-,CD20-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "Natural killer cell overall",
     "Subtype": "Natural killer T cell/CD8",
     "Tag": "NKT8",
@@ -109,7 +110,7 @@
   {
     "Marker_combination": "CD3,CD4,CD56",
     "Negatives": "CD8-,FOXP3-,CD20-,SOX10-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26",
     "Cell_type": "Natural killer cell overall",
     "Subtype": "Natural killer T cell/CD4",
     "Tag": "NKT4",
@@ -118,7 +119,7 @@
   {
     "Marker_combination": "SOX10",
     "Negatives": "CD3-,CD4-,CD8-,FOXP3-,CD20-",
-    "With_OR_Without": "CD45,CD14,CD163,CD68,CD56",
+    "With_OR_Without": "CD45,CD14,CD163,CD68,S100B,PCK26,CD56",
     "Cell_type": "Tumor",
     "Subtype": "Tumor",
     "Tag": "Tumor",
@@ -126,19 +127,20 @@
   },
   {
     "Marker_combination": "PCK26",
-    "Negatives": "CD3-,CD4-,CD8-,FOXP3-,CD20-,CD56-,CD14-,CD163-,CD68-,SOX10-",
+    "Negatives": "CD45-,CD3-,CD4-,CD8-,FOXP3-,CD20-,CD56-,CD14-,CD163-,CD68-,SOX10-,S100B-",
     "Cell_type": "Epithelial cell",
     "Subtype": "Epithelial cell"
   },
   {
     "Marker_combination": "S100B",
-    "Negatives": "CD3-,CD4-,CD8-,FOXP3-,CD20-,CD56-,CD14-,CD163-,CD68-,SOX10-",
-    "Cell_type": "Adipocyte or dendritic cell (Langerhans)",
-    "Subtype": "Adipocyte or dendritic cell (Langerhans)"
+    "Negatives": "CD45-,CD3-,CD4-,CD8-,FOXP3-,CD20-,CD56-,CD14-,CD163-,CD68-,SOX10-,PCK26-",
+    "Cell_type": "Adipocyte or Langerhans cell",
+    "Subtype": "Adipocyte or Langerhans cell"
   },
   {
     "Marker_combination": "CD56,S100B",
     "Negatives": "CD3-,CD4-,CD8-,FOXP3-,CD20-,CD14-,CD163-,CD68-,SOX10-",
+    "With_OR_Without": "CD45,PCK26",
     "Cell_type": "Nerve",
     "Subtype": "Nerve"
   }

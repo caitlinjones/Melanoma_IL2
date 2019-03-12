@@ -7,7 +7,7 @@
     "CELL_TYPE": "Macrophage/monocyte",
     "SUBTYPE": "Macrophage/monocyte",
     "NEGATIVES": "CD3-,CD8-,FOXP3-,CD20-,CD56-,SOX10-",
-    "With_OR_Without": "CD45",
+    "With_OR_Without": "CD45,S100B,PCK26",
     "Tag": "Macrophage_monocyte",
     "Category": "Immune"
   }
